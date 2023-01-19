@@ -1,0 +1,22 @@
+﻿[
+  {
+    "country": "US",
+    "languages": [ "EN" ]
+  },
+  {
+    "country": "BE",
+    "languages": [ "NL", "FR", "DE" ]
+  },
+  {
+    "country": "NL",
+    "languages": [ "NL", "FY" ]
+  },
+  {
+    "country": "DE",
+    "languages": [ "DE" ]
+  },
+  {
+    "country": "ES",
+    "languages": [ "ES" ]
+  }
+]
